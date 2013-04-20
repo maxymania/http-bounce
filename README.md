@@ -18,7 +18,7 @@ It has to work, no matter wich of the both requests (GET and PUT) emerges first.
 
 # bounce.js
 
-This is the reference implementation of the mechanism.
+This is the reference implementation of the mechanism. (for node.js)
 
 ```js
 var http = require('http');
